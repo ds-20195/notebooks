@@ -37,7 +37,7 @@ The drafts folder contains notebooks-in-progress, which are subject to change be
 [Week 8](Notebook8.ipynb) - Evictions and redlining
 - HRI (Historical Redlining Index), Princeton Eviction Lab data, proprietary and modeled data, comparison to NYC Open Data
 
-Week 9 - Neighborhoods and communities
+[Week 9](Notebook9.ipynb) - Neighborhoods and communities
 - NYT neighborhood mapping project, Communities of Interest dataset, participatory mapping
 
 
